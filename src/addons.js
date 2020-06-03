@@ -10,10 +10,7 @@ export {
   useEffect,
   useReducer,
   useState,
-  useStateLike,
-  triggerUpdate,
   useRef,
-  useRefLike,
   useCallback,
   useMemo,
 } from '@storybook/addons';

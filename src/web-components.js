@@ -1,4 +1,5 @@
 export {
+  storiesOf,
   setAddon,
   addDecorator,
   addParameters,
